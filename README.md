@@ -1,1 +1,3 @@
-# My-project
+# My project
+Виктория Михайлова
+Back end разработчик
